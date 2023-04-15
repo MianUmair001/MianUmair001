@@ -28,8 +28,6 @@ I'm Muhammad Umair, a passionate MERN Stack Developer with almost 2 years of pro
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MianUmair001&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MianUmair001)  
-
 ![GitHub metrics](https://metrics.lecoq.io/MianUmair001)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MianUmair001)  
