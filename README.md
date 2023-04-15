@@ -1,10 +1,15 @@
-### Hi there 👋, Muhammad Umair
-#### MERN Stack Developer
 ![MERN Stack Developer](https://i.pinimg.com/originals/e8/34/04/e83404cc18b8750cb88e40281b24dd2d.png)
+
+# Muhammad Umair
+## MERN Stack Developer
 
 I'm Muhammad Umair, a passionate MERN Stack Developer with almost 2 years of professional experience. I love building web applications and creating meaningful and interactive user experiences. My expertise lies in developing robust and scalable applications using the MERN (MongoDB, Express, React, and Node.js) stack.
 
-Skills: NODE JS / REACT JS / Express JS / MongoDB / Python / Typescript / Javascript / SQL / HTML / CSS
+
+## Skills & Experience
+* ⚛️ REACT
+* 🗄️ MONGO DB
+* 💻 Express JS / Node JS / Python / SQL / Typescript / Javascript / SQL / HTML / CSS
 
 - 🔭 I’m currently working on Telehealth 
 - 🌱 I’m currently learning React Native & Angular 
